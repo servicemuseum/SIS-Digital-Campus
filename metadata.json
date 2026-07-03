@@ -1,0 +1,6 @@
+{
+  "name": "SIS Digital Campus",
+  "description": "Digital platform for Shifa International School, featuring academic management, an Islamic values tracker, administrative dashboards, and financial portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
